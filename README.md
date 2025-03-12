@@ -18,3 +18,4 @@ Estamos listos… ¿ustedes lo están?
 # bus dataset: https://drive.google.com/file/d/1JgY20xWngBL0UC_Kik6UQLqgX32Fxwhs/view?usp=drive_link 
 # car dataset: https://drive.google.com/file/d/1xZakKKc3AbmvqFHa2tM9jWeg7BjscM7F/view?usp=drive_link 
 # truck dataset: https://drive.google.com/file/d/1L-nOohsmKQu6ZyZTb7RLeCk2YFum6O_s/view?usp=drive_link 
+# modelo entrenado v4.0: https://drive.google.com/file/d/15kj2Hmxmkzou-Y3JAUVh89asY1NuxEWr/view?usp=drive_link 
