@@ -19,5 +19,5 @@ Estamos listos… ¿ustedes lo están?
 # dataset car: https://drive.google.com/file/d/1xZakKKc3AbmvqFHa2tM9jWeg7BjscM7F/view?usp=sharing 
 # dataset truck: https://drive.google.com/file/d/1L-nOohsmKQu6ZyZTb7RLeCk2YFum6O_s/view?usp=sharing 
 # dataset moto: https://drive.google.com/file/d/1OZ8X1TBWw083N3dYF_XkazWEMT7cm801/view?usp=sharing 
-# dataset random: https://drive.google.com/file/d/1eBSAmQuxGFJ5u97y6EYGbSA9EgdsG7a_/view?usp=sharing 
+
 # modelo entrenado v6.0: https://drive.google.com/file/d/1KMKB8wrc8r2H0re6JLpXVyfzH3gEo1Zk/view?usp=drive_link 
