@@ -15,7 +15,9 @@ Estamos listos… ¿ustedes lo están?
 
 # Archivos importantes para probar el codigo:
 
-# bus dataset: https://drive.google.com/file/d/1JgY20xWngBL0UC_Kik6UQLqgX32Fxwhs/view?usp=drive_link 
-# car dataset: https://drive.google.com/file/d/1xZakKKc3AbmvqFHa2tM9jWeg7BjscM7F/view?usp=drive_link 
-# truck dataset: https://drive.google.com/file/d/1L-nOohsmKQu6ZyZTb7RLeCk2YFum6O_s/view?usp=drive_link 
-# modelo entrenado v4.0: https://drive.google.com/file/d/15kj2Hmxmkzou-Y3JAUVh89asY1NuxEWr/view?usp=drive_link 
+# dataset bus: https://drive.google.com/file/d/1JgY20xWngBL0UC_Kik6UQLqgX32Fxwhs/view?usp=sharing  
+# dataset car: https://drive.google.com/file/d/1xZakKKc3AbmvqFHa2tM9jWeg7BjscM7F/view?usp=sharing 
+# dataset truck: https://drive.google.com/file/d/1L-nOohsmKQu6ZyZTb7RLeCk2YFum6O_s/view?usp=sharing 
+# dataset moto: https://drive.google.com/file/d/1OZ8X1TBWw083N3dYF_XkazWEMT7cm801/view?usp=sharing 
+# dataset random: https://drive.google.com/file/d/1eBSAmQuxGFJ5u97y6EYGbSA9EgdsG7a_/view?usp=sharing 
+# modelo entrenado v6.0: https://drive.google.com/file/d/1KMKB8wrc8r2H0re6JLpXVyfzH3gEo1Zk/view?usp=drive_link 
